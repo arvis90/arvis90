@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @arvis90
+- 👀 I’m interested in web development, data science, and open-source contributions.
+- 🌱 I’m currently learning Next.js, TypeScript, and machine learning techniques.
+- 💞️ I’m looking to collaborate on open-source projects and web applications.
+- 📫 How to reach me: You can email me at arvis90@example.com or reach me via Twitter @arvis90.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once built a project using only HTML, CSS, and vanilla JavaScript that gained thousands of users!
